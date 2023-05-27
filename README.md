@@ -1,6 +1,6 @@
 **A Docker Image for updating a custom DDNS server.**
 
-![Docker Automated build](https://img.shields.io/docker/automated/fischerscode/ddns-updater) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/fischerscode/ddns-updater) ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/fischerscode/ddns-updater)
+[![Docker Automated build](https://img.shields.io/docker/automated/fischerscode/ddns-updater) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/fischerscode/ddns-updater) ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/fischerscode/ddns-updater)](https://hub.docker.com/r/fischerscode/ddns-updater) 
 
 ## Environment Variables
 
